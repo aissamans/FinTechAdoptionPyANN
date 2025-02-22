@@ -39,7 +39,6 @@ pip install numpy pandas scikit-learn tensorflow
    ```bash
    python fintech_ann_analysis.py
    ```
-   (Assuming your script is named `fintech_ann_analysis.py`.)
 
 3. **Interpret Results:**  
    - Two CSV files (for FullANN & SEMANN) containing the RMSE, R², and Adjusted R² metrics will be generated.  
